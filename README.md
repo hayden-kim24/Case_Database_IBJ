@@ -1,4 +1,4 @@
-# Case Database for International Bridges to Justice (IBJ)
+# Case Database: International Bridges to Justice (IBJ)
 
 Project Lead: Hayden Kim <br>
 Project Supervisor: Andrew Ozanian <br> 
