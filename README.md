@@ -1,8 +1,8 @@
 # Case Database for International Bridges to Justice (IBJ)
 
-Project Lead: Hayden Kim
-Project Supervisor: Andrew Ozanian
-Project Advisors:  Karen Tsu & Mary Katherine Brink
+Project Lead: Hayden Kim <br>
+Project Supervisor: Andrew Ozanian <br> 
+Project Advisors:  Karen Tsu & Mary Katherine Brink <br> 
 
 ## Overview
 
