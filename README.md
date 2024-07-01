@@ -18,6 +18,7 @@ Project Advisors:  Karen Tsu & Mary Katherine Brink <br>
 - **Document Management**: Upload and manage case-related documents.
 - **Search and Filter**: Efficiently search and filter cases based on various criteria.
 - **Interactive Dashboard**: An interactive map highlighting the IBJ-associated cases across the globe to general users.
+- **Automated Statitistics Generator**: Generate statistics based on data within the database. No need for manual calculation.
 - **Interactive AI Chatbot**: An interactive AI chatbot that corresponds to questions related to IBJ-associated lawyers and cases
 - **Responsive Design**: User-friendly interface accessible on both desktop and mobile devices.
 
