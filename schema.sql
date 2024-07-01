@@ -1,3 +1,13 @@
+/*
+Last Up 07-01-2024
+
+4 tables:
+- "users": Store user information including admins, lawyers, and staff.
+- "cases": Store case information including client details and case status.
+- "documents": Store document metadata linked to cases.
+- "gratns": Store grant information linked to cases & documnets
+*/
+
 CREATE TABLE users (
     user_id SERIAL PRIMARY KEY, -- ex) 1
     first_name VARCHAR(100) NOT NULL, -- ex) John
