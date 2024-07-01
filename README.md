@@ -22,6 +22,18 @@ Project Advisors:  Karen Tsu & Mary Katherine Brink <br>
 - **Interactive AI Chatbot**: An interactive AI chatbot that corresponds to questions related to IBJ-associated lawyers and cases
 - **Responsive Design**: User-friendly interface accessible on both desktop and mobile devices.
 
+## Priority #1:
+- **Case Management**: Add, update, and view case details including client information, case type, status, assigned lawyer, and description.
+- **Document Management**: Upload and manage case-related documents.
+- **Search and Filter**: Efficiently search and filter cases based on various criteria.
+- **Interactive Dashboard**: An interactive map highlighting the IBJ-associated cases across the globe to general users.
+
+## Priority #2:
+- **User Authentication and Authorization**: Secure login system with role-based access control (admin, lawyer, staff).
+- **Automated Statitistics Generator**: Generate statistics based on data within the database. No need for manual calculation.
+- **Interactive AI Chatbot**: An interactive AI chatbot that corresponds to questions related to IBJ-associated lawyers and cases
+- **Responsive Design**: User-friendly interface accessible on both desktop and mobile devices.
+
 ## Technology Stack
 
 - **Front-End**: React.js
